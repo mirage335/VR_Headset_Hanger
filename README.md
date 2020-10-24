@@ -18,6 +18,11 @@ Simple, effective, generic, hanger bracket for headsets, including VR headsets.
 
 # Safety
 
+Please be aware, this has not been adequately safety tested yet. In particular, it is known that flexible material should be used, to prevent accidental injury from collisions while using VR headsets/controllers in 'roomscale' mode.
+
+
+Additionally, the 3D printing process can create some slightly sharp edges that can cut into the headset foam. Covering the hanger with a soft cloth or similar material is recommend.
+
 
 # FutureWork
 
